@@ -1,0 +1,2 @@
+ini dokumen ke 1
+upload dokumen ini melalui push di gitbash ke github
